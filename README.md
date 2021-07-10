@@ -1,6 +1,8 @@
 - Novice Rust Programmer
 - Average Linux Enjoyer
 
+- Contact: UNAVAILABLE
+
 
 <!---
 SparkyCandle/SparkyCandle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
